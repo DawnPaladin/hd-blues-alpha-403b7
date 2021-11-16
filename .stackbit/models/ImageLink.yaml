@@ -5,4 +5,4 @@ fields:
   - type: string
     name: imgUrl
   - type: string
-    
+    name: 
