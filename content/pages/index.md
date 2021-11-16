@@ -13,7 +13,7 @@ sections:
       pattern…. Are we good?”
     actions:
       - type: Button
-        label: Get Started
+        label: Listen to "HD Blues"
         url: /
         style: primary
     feature:
