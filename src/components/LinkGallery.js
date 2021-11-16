@@ -8,7 +8,7 @@ function imageLink(model) {
 export function LinkGallery(props) {
     return (
         <div class="row">
-            {imageLink()}
+            {imageLink(props.)}
             <ImageLink item={props.item} />
         </div>
     );
