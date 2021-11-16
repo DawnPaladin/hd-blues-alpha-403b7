@@ -1,4 +1,4 @@
-const ImageLink = ({ imgUrl, link, altText, annotationPrefix }) => {
+const ImageLink = ({ imgUrl, link, altText }) => {
     return (
         <a href={link}>
             <img src={imgUrl} alt={altText} />
