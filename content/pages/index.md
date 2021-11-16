@@ -102,7 +102,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: Let's do this
+    title: Spread the song!
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
