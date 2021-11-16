@@ -109,7 +109,7 @@ sections:
         label: Live performance video
         url: /about
         style: primary
-      - label: Learn more
+      - label: Lyric video
         altText: Learn more
         url: /
         showIcon: false
