@@ -167,7 +167,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    variant: variant-b
+    variant: variant-a
     colors: colors-a
     title: Store
     actions: []
