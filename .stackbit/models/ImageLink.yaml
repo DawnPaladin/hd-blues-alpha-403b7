@@ -3,4 +3,4 @@ label: Image link
 groups:
 fields:
   - type: string
-    name: 
+    name: url
