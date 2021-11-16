@@ -1,4 +1,4 @@
-import { getComponent } from '../../components-registry';
+import { getComponent } from '@stackbit/components/components-registry';
 
 function imageLink(model) {
     const Component = getComponent(model.type);
