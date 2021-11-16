@@ -1,3 +1,5 @@
+import { getComponent } from '../../components-registry';
+
 export function LinkGallery(props) {
     return (
         <div class="row">
