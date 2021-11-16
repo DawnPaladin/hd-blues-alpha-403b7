@@ -5,4 +5,6 @@ fields:
   - type: string
     name: imgUrl
   - type: string
-    name: 
+    name: link
+  - type: string
+    name: altText
