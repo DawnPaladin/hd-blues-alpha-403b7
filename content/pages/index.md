@@ -103,9 +103,7 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Spread the song!
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: "Enjoy, download, share, and send the [link to this page](http://www.hdblues.org/) to everyone you know,\_***for free***. Just tell people I wrote it, and that they should pass it forward.\n"
     actions:
       - type: Button
         label: Try it now
