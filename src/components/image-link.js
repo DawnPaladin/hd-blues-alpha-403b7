@@ -1,1 +1,1 @@
-const ImageLink = ({ })
+const ImageLink = ({ imgUrl, })
