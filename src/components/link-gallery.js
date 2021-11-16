@@ -1,5 +1,7 @@
 export function LinkGallery(props) {
     return (
-        <div class=""
+        <div class="row">
+            
+        </div>
     );
 }
