@@ -1,7 +1,7 @@
 name: LinkGallery
 label: Link gallery
 groups: 
-  - SectionComponents
+  - sectionComponent
 fields:
   - type: string
     name: title
