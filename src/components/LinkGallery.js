@@ -5,3 +5,5 @@ export function LinkGallery(props) {
         </div>
     );
 }
+
+export default LinkGallery
