@@ -1,7 +1,8 @@
 import { getComponent } from '../../components-registry';
 
 function ImageLink(model) {
-    const 
+    const Component = getComponent(model.type);
+    return <
 }
 
 export function LinkGallery(props) {
