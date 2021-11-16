@@ -70,7 +70,6 @@ sections:
     feature:
       type: ImageBlock
       url: /images/brian.jpg
-      altText: 'Brian Schrag, Founder'
       caption: 'Brian Schrag, Founder'
     styles:
       self:
