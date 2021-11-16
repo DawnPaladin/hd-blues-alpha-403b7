@@ -6,4 +6,6 @@ fields:
   - type: string
     name: title
   - type: model
-    name: 
+    name: item
+    models:
+      - ImageLink
