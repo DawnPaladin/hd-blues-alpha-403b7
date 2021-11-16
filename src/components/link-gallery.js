@@ -1,1 +1,3 @@
-export function link
+export function LinkGallery(props) {
+    
+}
