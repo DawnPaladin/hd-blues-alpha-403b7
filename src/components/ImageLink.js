@@ -5,3 +5,5 @@ const ImageLink = ({ imgUrl, link, altText }) => {
         </a>
     )
 }
+
+export default ImageLink
