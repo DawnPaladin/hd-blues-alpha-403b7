@@ -9,7 +9,6 @@ export function LinkGallery(props) {
     return (
         <div class="row">
             {imageLink(props.item)}
-            <ImageLink item={props.item} />
         </div>
     );
 }
