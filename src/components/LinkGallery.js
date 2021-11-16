@@ -2,7 +2,7 @@ import { getComponent } from '@stackbit/components/dist/components-registry';
 
 function imageLink(model) {
     const Component = getComponent(model.type);
-    return <Component {...feature} />;
+    return <Component {...model} />;
 }
 
 export function LinkGallery(props) {
