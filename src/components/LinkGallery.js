@@ -1,6 +1,6 @@
 import { getComponent } from '../../components-registry';
 
-function ImageLink(modelName)
+function ImageLink(model)
 
 export function LinkGallery(props) {
     return (
