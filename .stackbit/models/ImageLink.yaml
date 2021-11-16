@@ -1,6 +1,7 @@
 name: ImageLink
 label: Image link
 groups:
+  - SimpleComponents
 fields:
   - type: string
     name: imgUrl
