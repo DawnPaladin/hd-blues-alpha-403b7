@@ -1,6 +1,6 @@
 import { getComponent } from '../../components-registry';
 
-function ImageLink(model) {
+function imageLink(model) {
     const Component = getComponent(model.type);
     return <Component {...feature} />;
 }
