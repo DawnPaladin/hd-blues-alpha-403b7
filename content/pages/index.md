@@ -70,7 +70,7 @@ sections:
     feature:
       type: ImageBlock
       url: /images/brian.jpg
-      altText: Hero section image
+      altText: 'Brian Schrag, founder'
     styles:
       self:
         height: screen
