@@ -5,7 +5,7 @@ function imageLink(model) {
     return <Component {...model} />;
 }
 
-export function LinkGallery(props) {
+function LinkGallery(props) {
     return (
         <div class="row">
             {imageLink(props)}
