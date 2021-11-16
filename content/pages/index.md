@@ -169,7 +169,7 @@ sections:
   - elementId: ''
     variant: variant-b
     colors: colors-a
-    title: About Us
+    title: Store
     subtitle: Meet the team
     actions: []
     people:
