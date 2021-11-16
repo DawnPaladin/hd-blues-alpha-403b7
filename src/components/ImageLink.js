@@ -1,6 +1,6 @@
 const ImageLink = ({ imgUrl, link, altText, annotationPrefix }) => {
     return (
-        <a href={link} data-sb-field-path={annotationPrefix}>
+        <a href={link}>
             <img src={imgUrl} alt={altText} />
         </a>
     )
