@@ -3,3 +3,5 @@ label: Link gallery
 groups: 
   - SectionComponents
 fields:
+  - type: string
+    name: 
