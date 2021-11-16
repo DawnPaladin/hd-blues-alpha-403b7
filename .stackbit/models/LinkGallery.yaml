@@ -2,3 +2,4 @@ name: LinkGallery
 label: Link gallery
 groups: 
   - SectionComponents
+fields:
