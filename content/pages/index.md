@@ -66,11 +66,7 @@ sections:
       type: ImageBlock
     title: Join the HD Blues campaign
     subtitle: Fresh. Better. Faster
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "You may have Huntington’s Disease, know someone who has it, be part of a medical or research or pharmacological community working with HD, run an HD support group, be a Woody Guthrie fan, or simply want a new excuse for acting drunk.\_Whatever your connection, join us and stop people in their tracks for a teachable moment: *This* is HD.\_\n\nBrian Schrag, Founder\n"
     actions:
       - type: Button
         label: Get Started
