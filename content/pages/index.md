@@ -6,11 +6,11 @@ sections:
     elementId: ''
     colors: colors-a
     title: '"No, sir, I am NOT drunk"'
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      "I struggle with a genetic progressive neurodegenerative disease causing
+      gradual deterioration of movement, cognitive function, emotional control,
+      blurring of social boundaries and inherited in an autosomal dominant
+      pattern…. Are we good?”
     actions:
       - type: Button
         label: Get Started
