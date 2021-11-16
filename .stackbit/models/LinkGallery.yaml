@@ -1,3 +1,4 @@
 name: LinkGallery
 label: Link gallery
-groups: SectionComponents
+groups: 
+  - SectionComponents
