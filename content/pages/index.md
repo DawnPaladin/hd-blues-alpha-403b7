@@ -70,7 +70,6 @@ sections:
     feature:
       type: ImageBlock
       url: /images/brian.jpg
-      caption: 'Brian Schrag, Founder'
     styles:
       self:
         height: screen
