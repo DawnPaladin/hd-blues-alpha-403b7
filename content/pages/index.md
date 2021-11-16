@@ -54,4 +54,42 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    variant: variant-b
+    colors: colors-a
+    title: About Us
+    subtitle: Meet the team
+    actions: []
+    people:
+      - content/data/team/desmond-eagle.json
+      - content/data/team/dianne-ameter.json
+      - content/data/team/hilary-ouse.json
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-2
+      subtitle:
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+    type: FeaturedPeopleSection
 ---
