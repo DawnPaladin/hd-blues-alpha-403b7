@@ -4,4 +4,4 @@ groups:
   - SectionComponents
 fields:
   - type: string
-    name: 
+    name: Label
