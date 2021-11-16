@@ -64,7 +64,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: All about the art of selling fish
+    title: Join the HD Blues campaign
     subtitle: Fresh. Better. Faster
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
