@@ -88,7 +88,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderWidth: 8
+        borderWidth: 0
       title:
         fontWeight: 700
         fontStyle: normal
