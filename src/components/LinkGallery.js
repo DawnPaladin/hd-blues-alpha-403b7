@@ -2,7 +2,7 @@ import { getComponent } from '../../components-registry';
 
 function ImageLink(model) {
     const Component = getComponent(model.type);
-    return <
+    return <Component {...feature}
 }
 
 export function LinkGallery(props) {
