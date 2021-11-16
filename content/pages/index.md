@@ -20,7 +20,7 @@ sections:
         showIcon: true
     feature:
       type: ImageBlock
-      url: /images/hero-image.png
+      url: /images/no-hd-sign_4.png
       altText: Hero section image
     styles:
       self:
