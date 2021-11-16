@@ -170,7 +170,6 @@ sections:
     variant: variant-b
     colors: colors-a
     title: Store
-    subtitle: Meet the team
     actions: []
     people:
       - content/data/team/desmond-eagle.json
