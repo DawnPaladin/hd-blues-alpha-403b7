@@ -2,4 +2,4 @@ name: ImageLink
 label: Image link
 groups:
 fields:
-  - type: 
+  - type: text
