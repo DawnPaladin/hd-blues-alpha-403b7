@@ -54,49 +54,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: FeaturedPostsSection
-    elementId: ''
-    variant: variant-a
-    colors: colors-a
-    title: Services & Experiences
-    subtitle: 'Like we said, it''s more than just fishing'
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
-    posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
-    styles:
-      self:
-        height: screen
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        fontWeight: '700'
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: '400'
-        fontStyle: normal
-        textAlign: center
-        margin:
-          - mt-0
-          - mb-12
-      actions:
-        justifyContent: center
   - type: ContactSection
     elementId: contact-form
     colors: colors-f
