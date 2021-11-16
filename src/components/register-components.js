@@ -8,7 +8,7 @@ registerComponents({
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
-    ImageLink: dynamic(() => import('./image-'))
+    ImageLink: dynamic(() => import('./image-link'))
 });
 
 /**
