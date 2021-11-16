@@ -106,7 +106,7 @@ sections:
     text: "Enjoy, download, share, and send the [link to this page](http://www.hdblues.org/) to everyone you know,\_***for free***. Just tell people I wrote it, and that they should pass it forward.\n"
     actions:
       - type: Button
-        label: Try it now
+        label: Live performance video
         url: /about
         style: primary
       - label: Learn more
