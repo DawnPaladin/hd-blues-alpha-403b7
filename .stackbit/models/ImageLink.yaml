@@ -1,7 +1,7 @@
 name: ImageLink
 label: Image link
 groups:
-  - SimpleComponents
+  - BlockComponents
 fields:
   - type: string
     name: imgUrl
