@@ -176,7 +176,7 @@ sections:
       - content/data/team/dianne-ameter.json
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
