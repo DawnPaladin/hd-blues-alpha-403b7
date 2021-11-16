@@ -1,7 +1,7 @@
 name: ImageLink
 label: Image link
 groups:
-  - SectionComponents
+  - sectionComponent
 fields:
   - type: string
     name: imgUrl
