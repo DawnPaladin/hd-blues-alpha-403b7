@@ -202,4 +202,10 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
+  - title: lorem-ipsum
+    item:
+      imgUrl: lorem-ipsum
+      link: lorem-ipsum
+      altText: lorem-ipsum
+    type: LinkGallery
 ---
