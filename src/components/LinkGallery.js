@@ -1,7 +1,7 @@
 export function LinkGallery(props) {
     return (
         <div class="row">
-            <ImageLink imgUrl=
+            <ImageLink imgUrl={props.imgUrl}
         </div>
     );
 }
