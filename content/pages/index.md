@@ -16,6 +16,7 @@ sections:
         label: Listen to "HD Blues"
         url: /
         style: primary
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/hero-image.png
