@@ -9,7 +9,9 @@ function LinkGallery(props) {
     const imageLinks = props.imageLinks || [];
     return (
         <div class="row">
-            imageLinks.map((imageLink, index) => ())
+            imageLinks.map((imageLink, index) => (
+                
+            ))
             {imageLink(props)}
         </div>
     );
