@@ -1,13 +1,12 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
 
 function imageLink(model) {
-    const ImageLink = getComponent("ImageLink");
     return <ImageLink {...model} />;
 }
 
 function LinkGallery(props) {
     const imageLinks = props.imageLinks || [];
-    const
+    const ImageLink = getComponent("ImageLink");
     return (
         <div class="row">
             imageLinks.map((imageLink, index) => (
