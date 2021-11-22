@@ -6,7 +6,7 @@ function LinkGallery(props) {
     return (
         <div class="row">
             imageLinks.map((imageLink, index) => (
-                <ImageLink
+                <ImageLink key={index}
             ))
             {imageLink(props)}
         </div>
