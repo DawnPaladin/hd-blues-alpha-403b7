@@ -1,9 +1,5 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
 
-function imageLink(model) {
-    return <ImageLink {...model} />;
-}
-
 function LinkGallery(props) {
     const imageLinks = props.imageLinks || [];
     const ImageLink = getComponent("ImageLink");
