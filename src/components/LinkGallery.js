@@ -6,7 +6,7 @@ function imageLink(model) {
 }
 
 function LinkGallery(props) {
-    const imageLinks = props.
+    const imageLinks = props.imageLinks || [];
     return (
         <div class="row">
             {imageLink(props)}
