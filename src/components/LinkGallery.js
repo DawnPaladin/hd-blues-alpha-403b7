@@ -8,7 +8,7 @@ function LinkGallery(props) {
         <div class="row">
             <h2>{props.title}</h2>
             <p>{proptypes}</p>
-            <ImageLink link={props.item.link} imgUrl="imgUrl" altText="altText" />
+            <ImageLink link={props.item.link} imgUrl={props.item.imgUrl} altText="altText" />
         </div>
     );
 }
