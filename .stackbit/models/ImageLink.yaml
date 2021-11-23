@@ -10,4 +10,4 @@ fields:
     name: link
   - type: string
     name: altText
-    label: Alt text for image ()
+    label: Alt text for image (used for screen readers and in)
