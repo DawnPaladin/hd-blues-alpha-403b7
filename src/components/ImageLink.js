@@ -1,5 +1,5 @@
 const ImageLink = props => {
-    const propTypes = 
+    const proptypes = Object.keys(props).join(",");
     return (
         <a href={props.link}>
             <p>Image: {props.image}</p>
