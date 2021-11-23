@@ -209,5 +209,6 @@ sections:
         image: /images/hdsa.png
       - link: null
         altText: null
+        image: /images/hd-buzz.png
     type: LinkGallery
 ---
