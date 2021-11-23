@@ -5,11 +5,6 @@ groups:
 fields:
   - type: string
     name: title
-  # - type: model
-  #   name: item
-  #   label: Image links
-  #   models:
-  #     - ImageLink
   - type: list
     name: imageLinks
     items:
