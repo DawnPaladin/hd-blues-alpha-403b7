@@ -5,7 +5,7 @@ function LinkGallery(props) {
     const ImageLink = getComponent("ImageLink");
     return (
         <div class="row">
-        // ImageLink goes here
+        
         </div>
     );
 }
