@@ -202,7 +202,7 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
-  - title: lorem-ipsum
+  - title: Link gallery
     item:
       imgUrl: lorem-ipsum
       link: lorem-ipsum
