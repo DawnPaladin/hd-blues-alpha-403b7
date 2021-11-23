@@ -13,4 +13,4 @@ fields:
     name: altText
     label: Alt text (for the visually impaired)
     default: 
-labelField: 
+labelField: altText
