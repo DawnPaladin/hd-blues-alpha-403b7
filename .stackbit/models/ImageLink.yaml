@@ -10,4 +10,4 @@ fields:
     name: link
   - type: string
     name: altText
-    label: Describe  (for the visually impaired)
+    label: Alt (for the visually impaired)
