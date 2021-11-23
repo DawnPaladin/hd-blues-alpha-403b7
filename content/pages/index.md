@@ -202,15 +202,4 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
-  - title: Link gallery
-    item:
-      imgUrl: >-
-        https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/HDSA_Logo.png
-      link: 'https://www.hdsa.org/'
-      altText: Huntington's Disease Society of America
-    type: LinkGallery
-    imageLinks:
-      - imgUrl: lorem-ipsum
-        link: lorem-ipsum
-        altText: lorem-ipsum
 ---
