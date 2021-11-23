@@ -4,6 +4,8 @@ groups:
   - BlockComponents
 fields:
   - type: string
+    name: link
+  - type: string
     name: imgUrl
     label: Image URL
   - type: string
