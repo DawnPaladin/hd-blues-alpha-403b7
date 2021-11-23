@@ -14,4 +14,5 @@ fields:
     name: imageLinks
     items:
       type: model
-      models
+      models:
+        - ImageLink
