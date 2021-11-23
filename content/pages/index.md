@@ -210,7 +210,7 @@ sections:
         altText: Huntington's Disease Society of America
       - imgUrl: >-
           https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/hd-buzz.png
-        link: lorem-ipsum
+        link: 'http://en.hdbuzz.net/003'
         altText: lorem-ipsum
     type: LinkGallery
 ---
