@@ -209,4 +209,8 @@ sections:
       link: 'https://www.hdsa.org/'
       altText: Huntington's Disease Society of America
     type: LinkGallery
+    imageLinks:
+      - imgUrl: lorem-ipsum
+        link: lorem-ipsum
+        altText: lorem-ipsum
 ---
