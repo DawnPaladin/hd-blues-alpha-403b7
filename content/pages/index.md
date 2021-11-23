@@ -208,7 +208,8 @@ sections:
           https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/HDSA_Logo.png
         link: 'https://www.hdsa.org/'
         altText: Huntington's Disease Society of America
-      - imgUrl: lorem-ipsum
+      - imgUrl: >-
+          https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/hd-buzz.png
         link: lorem-ipsum
         altText: lorem-ipsum
     type: LinkGallery
