@@ -206,5 +206,6 @@ sections:
     imageLinks:
       - link: null
         altText: null
+        image: /images/hdsa.png
     type: LinkGallery
 ---
