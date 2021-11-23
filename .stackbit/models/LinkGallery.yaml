@@ -13,3 +13,4 @@ fields:
   - type: list
     name: imageLinks
     items:
+      type: model
