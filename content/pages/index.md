@@ -204,7 +204,7 @@ sections:
     type: FeaturedPeopleSection
   - title: Link gallery
     imageLinks:
-      - link: null
+      - link: 'https://www.hdsa.org/'
         altText: Huntington's Disease Society of America
         image: /images/hdsa.png
     type: LinkGallery
