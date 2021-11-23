@@ -1,5 +1,7 @@
 const ImageLink = props => {
-    const link = props.link || ""
+    const link = props.link || "";
+    const imgUrl = props.imgUrl || "";
+    const altText = props.altText || "";
     return (
         <a href={link}>
             I'm an image link
