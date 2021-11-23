@@ -5,6 +5,7 @@ const ImageLink = props => {
             <p>proptypes: {proptypes} </p>
             <p>imgUrl: {props.imgUrl}</p>
             <p>image: {props.image} </p>
+            <p>altText: {props.altText}</p>
             <img src={props.imgUrl} alt={props.altText} />
         </a>
     )
