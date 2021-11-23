@@ -5,7 +5,7 @@ const ImageLink = props => {
     const proptypes = Object.keys(props).join(",");
     return (
         <a href={link}>
-            I'm an image link
+            I'm an image link with proptypes {proptypes}
             <img src={imgUrl} alt={altText} />
         </a>
     )
