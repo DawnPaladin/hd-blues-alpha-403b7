@@ -4,7 +4,7 @@ function LinkGallery(props) {
     const imageLinks = props.imageLinks || [];
     const ImageLink = getComponent("ImageLink");
     const proptypes = Object.keys(props).join(",");
-    const imageLinkData = props.imageLinks;
+    const imageLinkData = props.imageLinks || [];
     const imageLinks = imageLinkData.map(imageLink => (
         <ImageLink link={imageLink.link} imgUrl={imageLink.imgUrl} altText={imageLink.altText} />
     ))
