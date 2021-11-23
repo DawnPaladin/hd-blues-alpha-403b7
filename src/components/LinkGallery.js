@@ -5,10 +5,10 @@ function LinkGallery(props) {
     const ImageLink = getComponent("ImageLink");
     return (
         <div class="row">
-            imageLinks.map((imageLink, index) => (
+            {/* imageLinks.map((imageLink, index) => (
                 <div>{imageLink}</div>
                     {/* <ImageLink key={index} {...imageLink} /> */}
-            ))
+            )) */}
             {imageLink(props)}
         </div>
     );
