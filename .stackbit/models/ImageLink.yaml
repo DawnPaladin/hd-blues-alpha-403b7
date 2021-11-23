@@ -8,6 +8,5 @@ fields:
     label: Image URL
   - type: string
     name: link
-    
   - type: string
     name: altText
