@@ -205,7 +205,7 @@ sections:
   - title: Link gallery
     imageLinks:
       - link: 'https://www.hdsa.org/'
-        altText: null
+        altText: Huntington's Disease Society of America
         image: /images/hdsa.png
     type: LinkGallery
 ---
