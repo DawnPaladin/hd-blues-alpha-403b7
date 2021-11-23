@@ -205,10 +205,6 @@ sections:
   - title: Link gallery
     imageLinks:
       - imgUrl: >-
-          https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/HDSA_Logo.png
-        link: 'https://www.hdsa.org/'
-        altText: Huntington's Disease Society of America
-      - imgUrl: >-
           https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/hd-buzz.png
         link: 'http://en.hdbuzz.net/003'
         altText: HD Buzz
