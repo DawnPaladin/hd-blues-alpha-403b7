@@ -8,6 +8,7 @@ function LinkGallery(props) {
         <div class="row">
             <h2>{props.title}</h2>
             <p>{proptypes}</p>
+            
         </div>
     );
 }
