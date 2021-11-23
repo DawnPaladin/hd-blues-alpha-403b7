@@ -203,9 +203,6 @@ sections:
           - mb-12
     type: FeaturedPeopleSection
   - title: Link gallery
-    imageLinks:
-      - link: null
-        imgUrl: null
-        altText: null
+    imageLinks: []
     type: LinkGallery
 ---
