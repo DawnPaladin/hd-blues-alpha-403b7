@@ -7,6 +7,6 @@ fields:
     name: title
   - type: model
     name: item
-    label: Image link
+    label: Image links
     models:
       - ImageLink
