@@ -202,7 +202,7 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
-  - title: lorem-ipsum
+  - title: Link gallery
     imageLinks:
       - imgUrl: >-
           https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/HDSA_Logo.png
