@@ -204,7 +204,8 @@ sections:
     type: FeaturedPeopleSection
   - title: Link gallery
     item:
-      imgUrl: lorem-ipsum
+      imgUrl: >-
+        https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/HDSA_Logo.png
       link: 'https://www.hdsa.org/'
       altText: lorem-ipsum
     type: LinkGallery
