@@ -208,7 +208,7 @@ sections:
         altText: Huntington's Disease Society of America
         image: /images/hdsa.png
       - link: null
-        altText: null
+        altText: HD Buzz
         image: /images/hd-buzz.png
     type: LinkGallery
 ---
