@@ -9,7 +9,6 @@ fields:
   - type: image
     name: image
     required: true
-    default: 
   - type: string
     name: altText
     label: Alt text (for the visually impaired)
