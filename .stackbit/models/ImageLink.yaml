@@ -8,7 +8,6 @@ fields:
     default: 
   - type: image
     name: image
-    label: Image URL
     required: true
     default: 
   - type: string
