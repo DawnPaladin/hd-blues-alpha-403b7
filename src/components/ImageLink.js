@@ -1,4 +1,4 @@
-const ImageLink = ({ imgUrl, link, altText }) => {
+const ImageLink = (props => {
     return (
         <a href={link}>
             I'm an image link
