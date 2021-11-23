@@ -5,6 +5,7 @@ groups:
 fields:
   - type: string
     name: link
+    default:
   - type: string
     name: imgUrl
     label: Image URL
