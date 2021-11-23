@@ -212,5 +212,8 @@ sections:
           https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/hd-buzz.png
         link: 'http://en.hdbuzz.net/003'
         altText: HD Buzz
+      - link: null
+        imgUrl: null
+        altText: null
     type: LinkGallery
 ---
