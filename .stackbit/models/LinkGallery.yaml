@@ -12,4 +12,4 @@ fields:
       - ImageLink
   - type: list
     name: imageLinks
-    
+    items:
