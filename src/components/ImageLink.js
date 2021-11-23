@@ -3,7 +3,8 @@ const ImageLink = props => {
     return (
         <a href={props.link}>
             <p>proptypes: {proptypes} </p>
-            <p>{props.imgUrl}</p>
+            <p>imgUrl: {props.imgUrl}</p>
+            <p>image: {props.image} </p>
             <img src={props.imgUrl} alt={props.altText} />
         </a>
     )
