@@ -2,7 +2,7 @@ const ImageLink = props => {
 
     return (
         <a href={props.link}>
-            <img src={imgUrl} alt={altText} />
+            <img src={props.image} alt={altText} />
         </a>
     )
 }
