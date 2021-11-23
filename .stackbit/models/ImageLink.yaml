@@ -13,5 +13,5 @@ fields:
     default: 
   - type: string
     name: altText
-    label: Alt text describing the image (for the visually impaired)
+    label: Alt text (for the visually impaired)
     default: 
