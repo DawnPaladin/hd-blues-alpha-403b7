@@ -205,7 +205,7 @@ sections:
   - title: Link gallery
     item:
       imgUrl: lorem-ipsum
-      link: lorem-ipsum
+      link: 'https://www.hdsa.org/'
       altText: lorem-ipsum
     type: LinkGallery
 ---
