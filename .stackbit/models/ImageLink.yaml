@@ -7,7 +7,7 @@ fields:
     name: link
     default: 
   - type: image
-    name: imgUrl
+    name: image
     label: Image URL
     required: true
     default: 
