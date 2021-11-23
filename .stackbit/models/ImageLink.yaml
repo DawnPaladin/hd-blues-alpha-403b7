@@ -8,6 +8,7 @@ fields:
   - type: string
     name: imgUrl
     label: Image URL
+    required: true
   - type: string
     name: altText
     label: Alt text describing the image (for the visually impaired)
