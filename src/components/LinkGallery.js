@@ -4,7 +4,7 @@ function LinkGallery(props) {
     const imageLinks = props.imageLinks || [];
     const ImageLink = getComponent("ImageLink");
     const proptypes = Object.keys(props).join(",");
-    const imageLinks = props.imageLinks
+    const imageLinks = props.imageLinks;
     return (
         <div class="row">
             <h2>{props.title}</h2>
