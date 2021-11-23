@@ -11,4 +11,4 @@ fields:
     models:
       - ImageLink
   - type: list
-    name: 
+    name: Image
