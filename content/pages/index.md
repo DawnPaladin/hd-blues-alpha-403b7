@@ -206,7 +206,7 @@ sections:
     imageLinks:
       - imgUrl: >-
           https://preview--hdblues-stackbit-jekyll-dfe22.stackbit.dev/images/HDSA_Logo.png
-        link: lorem-ipsum
+        link: 'https://www.hdsa.org/'
         altText: lorem-ipsum
     type: LinkGallery
 ---
