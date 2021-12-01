@@ -215,8 +215,4 @@ sections:
     type: Flexbox
     Children:
       text: Inner flexbox
-      Children:
-        text: Outer flexbox
-        Children:
-          text: Inner flexbox
 ---
