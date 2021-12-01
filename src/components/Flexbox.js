@@ -1,1 +1,1 @@
-export default function Flexbox
+export default Flexbox
