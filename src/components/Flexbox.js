@@ -1,5 +1,5 @@
 export default Flexbox = ({ body }) => {
     return (
-        <div className = 
+        <div className="flexbox"
     )
 }
