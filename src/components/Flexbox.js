@@ -1,1 +1,5 @@
-export default Flexbox = 
+export default Flexbox = ({ body }) => {
+    return (
+        <div className = 
+    )
+}
