@@ -3,7 +3,7 @@ label: Flexbox
 groups:
   - sectionComponent
 fields:
-  - type: text
+  - type: markdown
     name: text
   - type: list
     name: Children
