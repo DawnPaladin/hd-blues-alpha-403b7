@@ -214,9 +214,7 @@ sections:
   - text: Outer flexbox
     type: Flexbox
     Children:
-      text: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
+      text: Inner flexbox
       Children:
         text: Outer flexbox
         Children:
