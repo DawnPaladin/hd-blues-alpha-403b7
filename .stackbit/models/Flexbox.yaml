@@ -7,4 +7,5 @@ fields:
     name: text
   - type: model
     name: Children
-    
+    models:
+      - 
