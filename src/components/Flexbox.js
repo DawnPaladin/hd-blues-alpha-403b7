@@ -9,7 +9,7 @@ const Flexbox = props => {
     )
 }
 
-function childComponent() {
+function childComponent(child) {
     const Child = getComponent(child.type)
 }
 
