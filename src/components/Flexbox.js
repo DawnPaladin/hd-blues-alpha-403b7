@@ -10,7 +10,7 @@ const Flexbox = props => {
 }
 
 function children() {
-    const 
+    const Child = getComponent()
 }
 
 export default Flexbox
