@@ -4,6 +4,7 @@ const Flexbox = props => {
     return (
         <div className="flexbox">
             { props.text }
+            
         </div>
     )
 }
