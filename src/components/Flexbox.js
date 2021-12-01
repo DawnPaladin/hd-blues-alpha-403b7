@@ -4,9 +4,11 @@ const Flexbox = props => {
     return (
         <div className="flexbox">
             { props.text }
-            {}
+            { }
         </div>
     )
 }
+
+function children
 
 export default Flexbox
