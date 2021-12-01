@@ -6,6 +6,6 @@ fields:
   - type: markdown
     name: text
   - type: list
-    name: Children
+    name: children
     models:
       - Flexbox
