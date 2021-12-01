@@ -1,7 +1,7 @@
-const Flexbox = ({ body }) => {
+const Flexbox = ({ text }) => {
     return (
         <div className="flexbox">
-            { body }
+            { text }
         </div>
     )
 }
