@@ -2,3 +2,6 @@ name: Flexbox
 label: Flexbox
 groups:
   - sectionComponent
+fields:
+  - type: text
+    name: text
