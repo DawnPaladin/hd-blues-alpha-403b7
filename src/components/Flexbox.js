@@ -1,7 +1,7 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
 
 const Flexbox = props => {
-    throw Error(props.children)
+    throw props.children
     return (
         <div className="flexbox">
             { props.text }
