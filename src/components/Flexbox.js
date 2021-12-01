@@ -1,7 +1,7 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
 
 const Flexbox = props => {
-    console.warn("!!!", props.children)
+    console.warn("!!!", props)
     return (
         <div className="flexbox">
             { props.text }
