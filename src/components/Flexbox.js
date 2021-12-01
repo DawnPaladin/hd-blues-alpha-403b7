@@ -11,7 +11,7 @@ const Flexbox = props => {
 
 function childComponent(child) {
     const Child = getComponent(child.type)
-    return <
+    return <Child {}
 }
 
 export default Flexbox
