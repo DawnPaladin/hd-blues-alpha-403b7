@@ -9,6 +9,8 @@ const Flexbox = props => {
     )
 }
 
-function children
+function children() {
+    
+}
 
 export default Flexbox
