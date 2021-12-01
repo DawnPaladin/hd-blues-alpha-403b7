@@ -211,4 +211,8 @@ sections:
         altText: HD Buzz
         image: /images/hd-buzz.png
     type: LinkGallery
+  - text: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    type: Flexbox
 ---
