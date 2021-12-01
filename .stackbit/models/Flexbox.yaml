@@ -6,4 +6,4 @@ fields:
   - type: text
     name: text
   - type: model
-    name: 
+    name: Children
