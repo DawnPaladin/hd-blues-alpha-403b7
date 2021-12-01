@@ -7,5 +7,7 @@ fields:
     name: text
   - type: list
     name: children
-    models:
-      - Flexbox
+    items:
+      type: model
+      models:
+        - Flexbox
