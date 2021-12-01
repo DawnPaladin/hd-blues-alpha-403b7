@@ -10,7 +10,7 @@ registerComponents({
     // or register your own dynamic component.
     ImageLink: dynamic(() => import('./ImageLink')),
     LinkGallery: dynamic(() => import('./LinkGallery')),
-    Flexbox
+    Flexbox: dynamic(() => import('./Flexbox')
 });
 
 /**
