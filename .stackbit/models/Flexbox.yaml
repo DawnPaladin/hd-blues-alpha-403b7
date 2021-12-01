@@ -5,7 +5,7 @@ groups:
 fields:
   - type: text
     name: text
-  - type: model
+  - type: list
     name: Children
     models:
       - Flexbox
