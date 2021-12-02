@@ -11,7 +11,7 @@ const Flexbox = props => {
 }
 
 function childComponents(children) {
-    return children.map((child, index) => (
+    return children.map((child, index) => ({
         const Child = getComponent(child.type)
         <Child key={index} {...child} />    
     )
