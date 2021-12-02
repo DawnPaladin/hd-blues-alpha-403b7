@@ -12,7 +12,7 @@ const Flexbox = props => {
 
 function childComponents(children) {
     return children.map((child, index) => (
-        return <Child key={index} {...child} />    
+        <Child key={index} {...child} />    
     })
     })
 
