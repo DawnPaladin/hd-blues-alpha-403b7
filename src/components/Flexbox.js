@@ -28,6 +28,8 @@ function mapMaxWidthStyles(width) {
     return null;
 }
 
+function map
+
 function childComponents(children) {
     return children.map((child, index) => {
         const Child = getComponent("Flexbox");
