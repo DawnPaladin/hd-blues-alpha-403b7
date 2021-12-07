@@ -14,4 +14,4 @@ fields:
   - type: style
     name: styles
     styles:
-      
+      flexDirection:
