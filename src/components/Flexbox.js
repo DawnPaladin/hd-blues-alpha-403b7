@@ -30,7 +30,7 @@ function mapMaxWidthStyles(width) {
 
 function mapFlexDirection(direction) {
     switch (direction) {
-        
+        case ''
     }
 }
 
