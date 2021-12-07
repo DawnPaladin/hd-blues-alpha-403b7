@@ -1,6 +1,6 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
 import classNames from 'classnames'
-import { mapStylesToClassNames as mapStyles } from '@stackbit/utils/map-styles-to-class-names'
+import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names'
 
 const Flexbox = props => {
     console.warn("!!!", props)
