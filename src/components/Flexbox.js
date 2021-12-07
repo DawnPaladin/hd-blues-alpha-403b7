@@ -29,7 +29,7 @@ function mapMaxWidthStyles(width) {
 }
 
 function mapFlexDirection(direction) {
-    return "flex-" + 
+    return "flex-" + direction;
 }
 
 function childComponents(children) {
