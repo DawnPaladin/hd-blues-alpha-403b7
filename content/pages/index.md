@@ -218,4 +218,5 @@ sections:
     styles:
       self:
         width: wide
+        padding: []
 ---
