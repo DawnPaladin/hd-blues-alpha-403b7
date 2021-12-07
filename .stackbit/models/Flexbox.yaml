@@ -12,4 +12,4 @@ fields:
       models:
         - Flexbox
   - type: style
-    name: 
+    name: style
