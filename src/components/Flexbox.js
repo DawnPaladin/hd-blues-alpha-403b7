@@ -28,11 +28,6 @@ function mapMaxWidthStyles(width) {
     return null;
 }
 
-function mapFlexDirection(direction) {
-    switch (direction) {
-        case ''
-    }
-}
 
 function childComponents(children) {
     return children.map((child, index) => {
