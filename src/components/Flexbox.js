@@ -7,7 +7,7 @@ const Flexbox = props => {
     const className = classNames("flex", mapMaxWidthStyles(styles?.self?.width))
     console.warn(styles)
     return (
-        <div className={className)} data-sb-field-path={props.annotationPrefix}>
+        <div className={className} data-sb-field-path={props.annotationPrefix}>
             { props.text }
             { props.children && childComponents(props.children) }
         </div>
