@@ -13,6 +13,8 @@ const Flexbox = props => {
     )
 }
 
+// from https://github.com/stackbit/stackbit-components/blob/main/src/components/TextSection/index.tsx
+// linked from 
 function mapMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':
