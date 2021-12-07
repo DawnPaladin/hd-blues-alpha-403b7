@@ -16,3 +16,4 @@ fields:
     styles:
       self:
         width: ['auto', 'narrow', 'wide', 'full']
+        
