@@ -11,3 +11,4 @@ fields:
       type: model
       models:
         - Flexbox
+  - type: style
