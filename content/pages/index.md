@@ -224,5 +224,5 @@ sections:
     styles:
       self:
         width: wide
-        flexDirection: col
+        flexDirection: col-reverse
 ---
