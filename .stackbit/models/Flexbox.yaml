@@ -16,4 +16,3 @@ fields:
     styles:
       self:
         width: ['narrow', 'wide']
-        flexDirection: ['*']
