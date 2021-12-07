@@ -247,5 +247,5 @@ sections:
     type: Flexbox
     styles:
       self:
-        width: wide
+        width: full
 ---
