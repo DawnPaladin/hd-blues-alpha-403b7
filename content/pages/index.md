@@ -212,7 +212,7 @@ sections:
         image: /images/hd-buzz.png
     type: LinkGallery
   - text: |
-      Outer flexbox
+      # Partners
     children: []
     type: Flexbox
     styles:
