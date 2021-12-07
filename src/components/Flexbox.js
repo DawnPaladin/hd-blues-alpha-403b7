@@ -6,7 +6,7 @@ const Flexbox = props => {
     const styles = props.styles || {}
     console.warn(styles)
     return (
-        <div className={classNames("flexbox", mapStyles(styles.self))} data-sb-field-path={props.annotationPrefix}>
+        <div className={classNames("flexbox", mapMaxWidthStyles())} data-sb-field-path={props.annotationPrefix}>
             { props.text }
             { props.children && childComponents(props.children) }
         </div>
