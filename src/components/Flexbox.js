@@ -4,7 +4,7 @@ import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/ut
 
 const Flexbox = props => {
     const styles = props.styles || {}
-    const className = classNames("flex", mapMaxWidthStyles(styles?.self?.width), mapFlexDirection(styles?.self?.flexDirection), "margin-auto")
+    const className = classNames("flex", mapMaxWidthStyles(styles?.self?.width), mapFlexDirection(styles?.self?.flexDirection), "m-auto")
     console.warn(styles)
     return (
         <div className={className} data-sb-field-path={props.annotationPrefix}>
