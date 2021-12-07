@@ -29,6 +29,7 @@ function mapMaxWidthStyles(width) {
 }
 
 function mapFlexDirection(direction) {
+    if (!direction) return "";
     return "flex-" + direction;
 }
 
