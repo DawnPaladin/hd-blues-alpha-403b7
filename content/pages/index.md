@@ -215,4 +215,7 @@ sections:
       Outer flexbox
     children: []
     type: Flexbox
+    styles:
+      self:
+        width: wide
 ---
