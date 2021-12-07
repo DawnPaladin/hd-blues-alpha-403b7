@@ -17,5 +17,3 @@ fields:
       self:
         width: ['auto', 'narrow', 'wide', 'full']
         flexDirection: ['row', 'row-reverse', 'col', 'col-reverse']
-        padding: ['tw']
-        margin: ['tw']
