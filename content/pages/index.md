@@ -221,5 +221,5 @@ sections:
     styles:
       self:
         width: wide
-        flexDirection: row
+        flexDirection: col
 ---
