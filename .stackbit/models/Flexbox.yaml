@@ -15,4 +15,4 @@ fields:
     name: styles
     styles:
       self:
-        - flexDirection:
+        - flexDirection: 
