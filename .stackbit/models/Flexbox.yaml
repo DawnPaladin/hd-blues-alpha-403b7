@@ -16,4 +16,4 @@ fields:
     styles:
       self:
         flexDirection:
-          - 
+          - row
