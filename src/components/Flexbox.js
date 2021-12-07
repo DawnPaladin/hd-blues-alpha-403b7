@@ -13,7 +13,17 @@ const Flexbox = props => {
     )
 }
 
-
+function mapMaxWidthStyles(width) {
+    switch (width) {
+        case 'narrow':
+            return 'max-w-screen-md';
+        case 'wide':
+            return 'max-w-screen-xl';
+        case 'full':
+            return 'max-w-full';
+    }
+    return null;
+}
 
 function childComponents(children) {
     return children.map((child, index) => {
