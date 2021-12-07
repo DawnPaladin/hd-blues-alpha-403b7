@@ -3,7 +3,7 @@ import { getComponent } from '@stackbit/components/dist/components-registry';
 const Flexbox = props => {
     console.warn("!!!", props)
     return (
-        <div className="flexbox" data-sb-field-path={props.annotationPrefix}>
+        <div className="flexbox" data-sb-field-path={props.annotationPrefix} >
             { props.text }
             { props.children && childComponents(props.children) }
         </div>
