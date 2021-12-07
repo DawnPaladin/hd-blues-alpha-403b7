@@ -245,4 +245,7 @@ sections:
       dui. Integer vel convallis justo.
     children: []
     type: Flexbox
+    styles:
+      self:
+        width: narrow
 ---
