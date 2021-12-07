@@ -1,5 +1,5 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
-import 
+import classNames from 'classnames'
 
 const Flexbox = props => {
     console.warn("!!!", props)
