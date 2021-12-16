@@ -220,6 +220,6 @@ sections:
     type: Flexbox
     styles:
       self:
-        width: full
+        width: wide
         padding: []
 ---
