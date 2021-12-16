@@ -217,6 +217,9 @@ sections:
       - text: |
           Second flexbox
         children: []
+      - link: null
+        altText: null
+        type: ImageLink
     type: Flexbox
     styles:
       self:
