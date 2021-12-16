@@ -217,10 +217,6 @@ sections:
       - text: |
           Second flexbox
         children: []
-      - link: null
-        altText: HD Buzz
-        type: ImageLink
-        image: /images/hd-buzz.png
     type: Flexbox
     styles:
       self:
