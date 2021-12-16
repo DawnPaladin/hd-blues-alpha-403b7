@@ -1,16 +1,16 @@
-name: ImageLink
-label: Image link
+name: Image
+label: Image
 groups:
   - BlockComponents
 fields:
   - type: string
     name: link
-    default: 
+    default:
   - type: image
     name: image
     required: true
   - type: string
     name: altText
     label: Alt text (for the visually impaired)
-    default: 
+    default:
 labelField: altText

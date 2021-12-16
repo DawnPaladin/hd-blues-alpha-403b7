@@ -207,7 +207,7 @@ sections:
     children:
       - link: 'https://en.hdbuzz.net/'
         altText: HD Buzz
-        type: ImageLink
+        type: Image
         image: /images/hd-buzz.png
     type: Flexbox
 ---
