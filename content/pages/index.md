@@ -214,7 +214,7 @@ sections:
   - text: |
       Partners
     children:
-      - link: null
+      - link: 'https://en.hdbuzz.net/'
         altText: HD Buzz
         type: ImageLink
         image: /images/hd-buzz.png
