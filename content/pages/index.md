@@ -213,6 +213,9 @@ sections:
     type: LinkGallery
   - text: |
       Partners
-    children: []
+    children:
+      - link: null
+        altText: null
+        type: ImageLink
     type: Flexbox
 ---
