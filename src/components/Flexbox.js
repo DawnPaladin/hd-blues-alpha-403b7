@@ -1,6 +1,7 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
 import classNames from 'classnames'
 import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names'
+import Markdown from 'markdown-to-jsx'
 
 const Flexbox = props => {
     const styles = props.styles || {}
@@ -8,7 +9,16 @@ const Flexbox = props => {
     console.warn(styles)
     return (
         <div className={className} data-sb-field-path={props.annotationPrefix}>
-            { props.text }
+            {/* Markdown display adapted from https://github.com/stackbit/stackbit-components/blob/main/src/components/CtaSection/index.tsx#L95 */}
+            { props.text && 
+                <Markdown
+                    options={{ forceBlock: true, forceWrapper: true }}
+                    className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
+                    data-sb-field-path=".text"
+                >
+                    { props.text }
+                </Markdown>
+            }
             { props.children && childComponents(props.children) }
         </div>
     )
