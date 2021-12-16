@@ -218,7 +218,7 @@ sections:
           Second flexbox
         children: []
       - link: null
-        altText: null
+        altText: HD Buzz
         type: ImageLink
         image: /images/hd-buzz.png
     type: Flexbox
