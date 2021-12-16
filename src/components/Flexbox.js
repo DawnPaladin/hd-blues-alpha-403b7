@@ -1,28 +1,28 @@
 import { getComponent } from '@stackbit/components/dist/components-registry';
-import classNames from 'classnames'
-import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names'
-import Markdown from 'markdown-to-jsx'
+import classNames from 'classnames';
+import { mapStylesToClassNames as mapStyles } from '@stackbit/components/dist/utils/map-styles-to-class-names';
+import Markdown from 'markdown-to-jsx';
 
-const Flexbox = props => {
-    const styles = props.styles || {}
-    const className = classNames("flex", mapMaxWidthStyles(styles?.self?.width), mapFlexDirection(styles?.self?.flexDirection), "m-auto" /* margin: auto */)
-    console.warn(styles)
+const Flexbox = (props) => {
+    const styles = props.styles || {};
+    const className = classNames('flex', mapMaxWidthStyles(styles?.self?.width), mapFlexDirection(styles?.self?.flexDirection), 'm-auto' /* margin: auto */);
+    console.warn(styles);
     return (
         <div className={className} data-sb-field-path={props.annotationPrefix}>
             {/* Markdown display adapted from https://github.com/stackbit/stackbit-components/blob/main/src/components/CtaSection/index.tsx#L95 */}
-            { props.text && 
+            {props.text && (
                 <Markdown
                     options={{ forceBlock: true, forceWrapper: true }}
                     className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null, { 'mt-4': props.title })}
                     data-sb-field-path=".text"
                 >
-                    { props.text }
+                    {props.text}
                 </Markdown>
-            }
-            { props.children && childComponents(props.children) }
+            )}
+            {props.children && childComponents(props.children)}
         </div>
-    )
-}
+    );
+};
 
 // from https://github.com/stackbit/stackbit-components/blob/main/src/components/TextSection/index.tsx
 // linked from docs: https://docs.stackbit.com/reference/defining-models/field-and-component-styles/#width
@@ -39,16 +39,15 @@ function mapMaxWidthStyles(width) {
 }
 
 function mapFlexDirection(direction) {
-    if (!direction) return "";
-    return "flex-" + direction;
+    if (!direction) return '';
+    return 'flex-' + direction;
 }
 
 function childComponents(children) {
     return children.map((child, index) => {
-        const Child = getComponent("Flexbox");
-        return <Child key={index} {...child} />    
-    })
-
+        const Child = getComponent('Flexbox');
+        return <Child key={index} {...child} />;
+    });
 }
 
-export default Flexbox
+export default Flexbox;
