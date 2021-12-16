@@ -215,4 +215,7 @@ sections:
       Partners
     children: []
     type: Flexbox
+    styles:
+      self:
+        width: wide
 ---
