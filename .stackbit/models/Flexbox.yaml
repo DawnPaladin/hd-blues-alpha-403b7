@@ -5,7 +5,7 @@ groups:
 fields:
   - type: markdown
     name: text
-    default:
+    default: ''
   - type: list
     name: children
     items:
