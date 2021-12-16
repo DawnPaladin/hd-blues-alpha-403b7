@@ -211,7 +211,8 @@ sections:
         altText: HD Buzz
         image: /images/hd-buzz.png
     type: LinkGallery
-  - text: ''
+  - text: |
+      Partners
     children: []
     type: Flexbox
 ---
