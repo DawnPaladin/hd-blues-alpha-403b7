@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-const Image = (props) => {
+const ImageLink = (props) => {
     const proptypes = Object.keys(props).join(',');
     return (
         <a href={props.link}>
@@ -13,4 +13,4 @@ const Image = (props) => {
     );
 };
 
-export default Image;
+export default ImageLink;

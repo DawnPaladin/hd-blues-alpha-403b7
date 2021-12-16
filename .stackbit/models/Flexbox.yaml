@@ -12,7 +12,7 @@ fields:
       type: model
       models:
         - Flexbox
-        - ImageLink
+        - Image
   - type: style
     name: styles
     styles:
