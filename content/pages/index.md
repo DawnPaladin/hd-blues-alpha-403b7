@@ -220,6 +220,7 @@ sections:
       - link: null
         altText: null
         type: ImageLink
+        image: /images/hd-buzz.png
     type: Flexbox
     styles:
       self:
