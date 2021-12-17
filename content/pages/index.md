@@ -226,7 +226,9 @@ sections:
         height: null
         type: Image
         image: /images/hd-lighthouse-families.png
-      - altText: null
+      - altText: >-
+          Make Life: Fostering Hopeful Creativity in Huntington's Disease
+          Communities
         link: null
         width: '170'
         height: null
