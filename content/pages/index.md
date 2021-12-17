@@ -6,7 +6,6 @@ sections:
     children:
       - altText: null
         link: null
-        height: 380px
         type: Image
         image: /images/no-hd-sign_4.png
       - text: >
