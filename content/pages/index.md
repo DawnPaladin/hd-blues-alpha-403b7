@@ -245,5 +245,5 @@ sections:
       self:
         flexDirection: row
         width: wide
-        justifyContent: flex-start
+        justifyContent: center
 ---
