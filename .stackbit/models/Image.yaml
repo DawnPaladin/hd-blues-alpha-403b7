@@ -3,9 +3,6 @@ label: Image
 groups:
   - BlockComponents
 fields:
-  - type: string
-    name: link
-    default:
   - type: image
     name: image
     required: true
