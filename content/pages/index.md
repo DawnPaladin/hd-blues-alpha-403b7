@@ -228,7 +228,7 @@ sections:
         image: /images/hd-lighthouse-families.png
       - altText: null
         link: null
-        width: null
+        width: '170'
         height: null
         type: Image
         image: /images/make-life-light.png
