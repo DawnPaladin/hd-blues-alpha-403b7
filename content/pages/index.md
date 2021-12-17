@@ -210,4 +210,7 @@ sections:
         type: Image
         image: /images/hd-buzz.png
     type: Flexbox
+    styles:
+      self:
+        flexDirection: row
 ---
