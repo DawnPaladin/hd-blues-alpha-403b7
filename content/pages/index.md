@@ -27,7 +27,7 @@ sections:
     type: Flexbox
     styles:
       self:
-        flexDirection: row-reverse
+        flexDirection: row
         width: wide
         justifyContent: flex-start
   - type: HeroSection
