@@ -2,6 +2,13 @@
 title: Home
 layout: PageLayout
 sections:
+  - text: ''
+    children: []
+    type: Flexbox
+    styles:
+      self:
+        flexDirection: row
+        width: wide
   - type: HeroSection
     elementId: ''
     colors: colors-a
