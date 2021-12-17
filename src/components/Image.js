@@ -1,5 +1,3 @@
-import Image from 'next/image';
-
 const ImageLink = (props) => {
     const proptypes = Object.keys(props).join(',');
     const imageComponent = <Image src={props.image} alt={props.altText} layout="fill" />;
