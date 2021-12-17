@@ -11,6 +11,11 @@ sections:
           self:
             flexDirection: row
             width: wide
+      - altText: null
+        link: null
+        width: null
+        height: null
+        type: Image
     type: Flexbox
     styles:
       self:
