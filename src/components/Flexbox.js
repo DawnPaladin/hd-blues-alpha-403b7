@@ -44,7 +44,7 @@ function mapFlexDirection(direction) {
 
 function childComponents(children) {
     return children.map((child, index) => {
-        const Child = getComponent('Flexbox');
+        const Child = getComponent(child.type);
         return <Child key={index} {...child} />;
     });
 }
