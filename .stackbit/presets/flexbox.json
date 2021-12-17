@@ -1,0 +1,29 @@
+{
+	"model": "Flexbox",
+	"presets": [
+		{
+			"label": "Row",
+			"thumbnail": "images/row.png",
+			"data": {
+				"text": "Row",
+				"styles": {
+					"self": {
+						"flexDirection": "row"
+					}
+				}
+			}
+		},
+		{
+			"label": "Column",
+			"thumbnail": "images/column.png",
+			"data": {
+				"text": "Row",
+				"styles": {
+					"self": {
+						"flexDirection": "column"
+					}
+				}
+			}
+		}
+	]
+}
