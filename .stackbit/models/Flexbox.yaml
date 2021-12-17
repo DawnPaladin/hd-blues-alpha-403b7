@@ -19,4 +19,4 @@ fields:
       self:
         width: ['wide', 'auto', 'narrow', 'full']
         flexDirection: ['row', 'row-reverse', 'col', 'col-reverse']
-        justifyContent: ['flex-start', 'center', 'flex-end', ]
+        justifyContent: ['flex-start', 'center', 'flex-end', 'space-between', 'space-around', 'space-evenly']
