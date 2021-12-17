@@ -42,6 +42,8 @@ function mapFlexDirection(direction) {
     return 'flex-' + direction;
 }
 
+function mapJustifyContent()
+
 function childComponents(children) {
     return children.map((child, index) => {
         const Child = getComponent(child.type);
