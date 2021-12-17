@@ -202,4 +202,10 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
+  - text: Row
+    children: []
+    type: Flexbox
+    styles:
+      self:
+        flexDirection: row
 ---
