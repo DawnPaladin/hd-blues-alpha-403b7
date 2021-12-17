@@ -39,7 +39,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderColor: border-secondary
+        borderColor: border-complementary
       title:
         fontWeight: '700'
         fontStyle: normal
