@@ -13,5 +13,10 @@ fields:
     name: altText
     label: Alt text (for the visually impaired)
     default:
-  - type: 
+  - type: string
+    name: width
+    label: Width
+  - type: string
+    name: height
+    label: Height
 labelField: altText
