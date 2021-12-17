@@ -216,6 +216,7 @@ sections:
         altText: Huntington's Disease Society of America
         type: Image
         image: /images/HDSA_Logo.png
+        width: '100'
     type: Flexbox
     styles:
       self:
