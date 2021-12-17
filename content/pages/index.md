@@ -234,7 +234,7 @@ sections:
         height: null
         type: Image
         image: /images/make-life-light.png
-      - altText: null
+      - altText: Help 4 HD
         link: null
         width: null
         height: null
