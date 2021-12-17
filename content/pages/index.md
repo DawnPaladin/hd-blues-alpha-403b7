@@ -222,6 +222,7 @@ sections:
         width: lorem-ipsum
         height: lorem-ipsum
         type: Image
+        image: /images/hd-buzz.png
     type: Flexbox
     styles:
       self:
