@@ -29,7 +29,7 @@ sections:
       self:
         flexDirection: row
         width: wide
-        justifyContent: space-between
+        justifyContent: space-around
   - type: HeroSection
     elementId: ''
     colors: colors-a
