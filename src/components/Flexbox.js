@@ -49,7 +49,7 @@ function mapJustifyContent(param) {
     if (param == "flex-end") return "justify-end";
     if (param == "space-between") return "justify-between";
     if (param == "space-around") return "justify-around";
-    if (param == )
+    if (param == "space-evenly") return "justify-evenly"
 }
 
 function childComponents(children) {
