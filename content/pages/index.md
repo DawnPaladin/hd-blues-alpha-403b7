@@ -218,7 +218,7 @@ sections:
         image: /images/HDSA_Logo.png
         width: '170'
       - link: null
-        altText: null
+        altText: HD Buzz
         type: Image
         image: /images/hd-buzz.png
     type: Flexbox
