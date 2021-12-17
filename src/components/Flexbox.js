@@ -44,7 +44,7 @@ function mapFlexDirection(direction) {
 
 function mapJustifyContent(param) {
     console.warn(param);
-    
+    if (param == )
 }
 
 function childComponents(children) {
