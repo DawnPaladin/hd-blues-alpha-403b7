@@ -10,7 +10,14 @@ sections:
         height: null
         type: Image
         image: /images/no-hd-sign_4.png
-      - text: ''
+      - text: >
+          # "NO, SIR, I AM ***NOT*** DRUNK"
+
+
+          "I struggle with a genetic progressive neurodegenerative disease
+          causing gradual deterioration of movement, cognitive function,
+          emotional control, blurring of social boundaries and inherited in an
+          autosomal dominant pattern…. Are we good?”
         children: []
         type: Flexbox
         styles:
