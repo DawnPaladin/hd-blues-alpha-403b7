@@ -47,7 +47,9 @@ function mapJustifyContent(param) {
     if (param == "flex-start") return "justify-start";
     if (param == "center") return "justify-center";
     if (param == "flex-end") return "justify-end";
-    if (param == "space-between") return ""
+    if (param == "space-between") return "justify-between";
+    if (param == "space-around") return "justify-around";
+    if (param == )
 }
 
 function childComponents(children) {
