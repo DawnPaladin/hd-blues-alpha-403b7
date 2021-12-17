@@ -219,7 +219,6 @@ sections:
         width: '170'
       - link: null
         altText: null
-        width: lorem-ipsum
         height: lorem-ipsum
         type: Image
         image: /images/hd-buzz.png
