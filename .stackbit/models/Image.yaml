@@ -20,4 +20,5 @@ fields:
   - type: string
     name: height
     label: Height
+    default:
 labelField: altText
