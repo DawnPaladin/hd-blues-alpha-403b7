@@ -16,6 +16,4 @@ const ImageLink = (props) => {
     }
 };
 
-
-
 export default ImageLink;
