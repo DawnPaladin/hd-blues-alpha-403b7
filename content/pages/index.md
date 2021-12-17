@@ -226,6 +226,7 @@ sections:
         width: null
         height: null
         type: Image
+        image: /images/hd-lighthouse-families.png
     type: Flexbox
     styles:
       self:
