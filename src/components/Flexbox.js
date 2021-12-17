@@ -42,13 +42,13 @@ function mapFlexDirection(direction) {
     return 'flex-' + direction;
 }
 
-function mapJustifyContent(param) {
-    if (param == "flex-start") return "justify-start";
-    if (param == "center") return "justify-center";
-    if (param == "flex-end") return "justify-end";
-    if (param == "space-between") return "justify-between";
-    if (param == "space-around") return "justify-around";
-    if (param == "space-evenly") return "justify-evenly"
+function mapJustifyContent(justification) {
+    if (justification == "flex-start") return "justify-start";
+    if (justification == "center") return "justify-center";
+    if (justification == "flex-end") return "justify-end";
+    if (justification == "space-between") return "justify-between";
+    if (justification == "space-around") return "justify-around";
+    if (justification == "space-evenly") return "justify-evenly"
 }
 
 function childComponents(children) {
