@@ -231,6 +231,7 @@ sections:
         width: null
         height: null
         type: Image
+        image: /images/make-life-light.png
     type: Flexbox
     styles:
       self:
