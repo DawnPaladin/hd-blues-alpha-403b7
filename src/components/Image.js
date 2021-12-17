@@ -1,6 +1,5 @@
 const ImageLink = (props) => {
     const proptypes = Object.keys(props).join(',');
-    const imageComponent = <Image src={props.image} alt={props.altText} layout="fill" />;
     if (props.link) {
         return (
             <a href={props.link}>
