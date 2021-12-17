@@ -11,6 +11,9 @@ fields:
     label: Alt text (for the visually impaired)
     default:
   - type: string
+    name: link
+    default:
+  - type: string
     name: width
     label: Width
   - type: string
