@@ -5,7 +5,7 @@
         "primaryColors": "colors-b",
         "secondaryColors": "colors-i",
         "title": "Small Business",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logo.svg",
@@ -43,7 +43,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-5", "pb-5", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     },
@@ -116,7 +121,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
