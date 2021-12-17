@@ -53,7 +53,7 @@ function mapJustifyContent(justification) {
 }
 
 function mapAlignItems(alignment) {
-    if (alignment == )
+    if (alignment == "flex-start") return "items-start";
 }
 
 function childComponents(children) {
