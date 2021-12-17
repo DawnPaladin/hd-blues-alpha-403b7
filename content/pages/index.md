@@ -208,4 +208,5 @@ sections:
     styles:
       self:
         flexDirection: row
+        width: wide
 ---
