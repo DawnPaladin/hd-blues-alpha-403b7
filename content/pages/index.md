@@ -226,6 +226,11 @@ sections:
         height: null
         type: Image
         image: /images/hd-lighthouse-families.png
+      - altText: null
+        link: null
+        width: null
+        height: null
+        type: Image
     type: Flexbox
     styles:
       self:
