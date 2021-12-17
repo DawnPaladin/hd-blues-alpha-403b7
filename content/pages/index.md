@@ -221,6 +221,11 @@ sections:
         altText: HD Buzz
         type: Image
         image: /images/hd-buzz.png
+      - altText: null
+        link: null
+        width: null
+        height: null
+        type: Image
     type: Flexbox
     styles:
       self:
