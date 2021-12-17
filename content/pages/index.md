@@ -7,7 +7,7 @@ sections:
       - altText: null
         link: null
         width: '520'
-        height: null
+        height: '380'
         type: Image
         image: /images/no-hd-sign_4.png
       - text: >
