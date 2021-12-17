@@ -235,7 +235,7 @@ sections:
         type: Image
         image: /images/make-life-light.png
       - altText: Help 4 HD
-        link: null
+        link: 'https://www.help4hd.org/'
         width: null
         height: null
         type: Image
