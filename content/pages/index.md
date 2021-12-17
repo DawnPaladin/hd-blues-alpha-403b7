@@ -212,7 +212,7 @@ sections:
         width: wide
   - text: ''
     children:
-      - link: null
+      - link: 'https://www.hdsa.org/'
         altText: null
         type: Image
         image: /images/HDSA_Logo.png
