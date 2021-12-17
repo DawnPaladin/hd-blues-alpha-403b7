@@ -19,3 +19,4 @@ fields:
       self:
         width: ['wide', 'auto', 'narrow', 'full']
         flexDirection: ['row', 'row-reverse', 'col', 'col-reverse']
+        
