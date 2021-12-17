@@ -229,7 +229,7 @@ sections:
       - altText: >-
           Make Life: Fostering Hopeful Creativity in Huntington's Disease
           Communities
-        link: null
+        link: 'http://www.makelifehd.org/'
         width: '170'
         height: null
         type: Image
