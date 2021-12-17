@@ -217,6 +217,11 @@ sections:
         type: Image
         image: /images/HDSA_Logo.png
         width: '170'
+      - link: null
+        altText: null
+        width: lorem-ipsum
+        height: lorem-ipsum
+        type: Image
     type: Flexbox
     styles:
       self:
