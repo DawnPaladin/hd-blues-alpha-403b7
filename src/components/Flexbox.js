@@ -5,7 +5,7 @@ import Markdown from 'markdown-to-jsx';
 
 const Flexbox = (props) => {
     const styles = props.styles || {};
-    const className = classNames('flex', mapMaxWidthStyles(styles?.self?.width), mapFlexDirection(styles?.self?.flexDirection), mapJustifyContent(styles?.self?.justifyContent), 'm-auto' /* margin: auto */);
+    const className = classNames('flex', mapMaxWidthStyles(styles?.self?.width), mapFlexDirection(styles?.self?.flexDirection), mapJustifyContent(styles?.self?.justifyContent), mapAlignItems(styles?.self?.alignItems), 'm-auto' /* margin: auto */);
     return (
         <div className={className} data-sb-field-path={props.annotationPrefix}>
             {/* Markdown display adapted from https://github.com/stackbit/stackbit-components/blob/main/src/components/CtaSection/index.tsx#L95 */}
