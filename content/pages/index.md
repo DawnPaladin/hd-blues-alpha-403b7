@@ -245,5 +245,5 @@ sections:
       self:
         flexDirection: row
         width: wide
-        justifyContent: space-around
+        justifyContent: space-between
 ---
