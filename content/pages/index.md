@@ -202,7 +202,8 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
-  - text: ''
+  - text: |
+      Test
     children: []
     type: Flexbox
     styles:
