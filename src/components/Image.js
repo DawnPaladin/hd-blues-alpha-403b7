@@ -2,6 +2,7 @@ import Image from 'next/image';
 
 const ImageLink = (props) => {
     const proptypes = Object.keys(props).join(',');
+    const imageComponent = <Image src={props.image} alt={props.altText} layout="fill" />;
     if (props.link) {
         return (
             <a href={props.link}>
@@ -9,11 +10,11 @@ const ImageLink = (props) => {
                 <p>imgUrl: {props.imgUrl}</p>
                 <p>image: {props.image} </p>
                 <p>altText: {props.altText}</p>
-                <Image src={props.image} alt={props.altText} />
+                {imageComponent}
             </a>
         );
     } else {
-        return <Image src={props.image} alt={props.altText} />;
+        return imageComponent;
     }
 };
 
