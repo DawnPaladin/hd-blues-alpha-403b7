@@ -202,15 +202,4 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
-  - text: |
-      Partners
-    children:
-      - link: 'https://en.hdbuzz.net/'
-        altText: HD Buzz
-        type: Image
-        image: /images/hd-buzz.png
-    type: Flexbox
-    styles:
-      self:
-        flexDirection: row
 ---
