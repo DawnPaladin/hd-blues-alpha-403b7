@@ -203,7 +203,7 @@ sections:
           - mb-12
     type: FeaturedPeopleSection
   - text: |
-      Test
+      # Partners
     children: []
     type: Flexbox
     styles:
