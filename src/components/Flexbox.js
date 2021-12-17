@@ -48,7 +48,8 @@ function mapJustifyContent(justification) {
     if (justification == "flex-end") return "justify-end";
     if (justification == "space-between") return "justify-between";
     if (justification == "space-around") return "justify-around";
-    if (justification == "space-evenly") return "justify-evenly"
+    if (justification == "space-evenly") return "justify-evenly";
+    
 }
 
 function mapAlignItems(alignment) {
