@@ -222,7 +222,7 @@ sections:
         type: Image
         image: /images/hd-buzz.png
       - altText: HD Lighthouse Families
-        link: null
+        link: 'http://www.hdlf.org/'
         width: null
         height: null
         type: Image
