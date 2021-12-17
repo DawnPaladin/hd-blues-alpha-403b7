@@ -49,7 +49,7 @@ function mapJustifyContent(justification) {
     if (justification == "space-between") return "justify-between";
     if (justification == "space-around") return "justify-around";
     if (justification == "space-evenly") return "justify-evenly";
-    
+    console.error("Justification not found")
 }
 
 function mapAlignItems(alignment) {
