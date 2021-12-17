@@ -16,6 +16,7 @@ sections:
         width: null
         height: null
         type: Image
+        image: /images/no-hd-sign_4.png
     type: Flexbox
     styles:
       self:
