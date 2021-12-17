@@ -239,6 +239,7 @@ sections:
         width: null
         height: null
         type: Image
+        image: /images/help-4-hd.webp
     type: Flexbox
     styles:
       self:
