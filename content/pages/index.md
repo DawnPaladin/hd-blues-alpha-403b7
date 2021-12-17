@@ -219,7 +219,6 @@ sections:
         width: '170'
       - link: null
         altText: null
-        height: lorem-ipsum
         type: Image
         image: /images/hd-buzz.png
     type: Flexbox
