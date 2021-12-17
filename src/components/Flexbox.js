@@ -44,7 +44,7 @@ function mapFlexDirection(direction) {
 
 function mapJustifyContent(param) {
     console.warn(param);
-    if (param == )
+    if (param == "flex-start") return "justify-start"
 }
 
 function childComponents(children) {
