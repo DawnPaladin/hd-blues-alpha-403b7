@@ -7,7 +7,9 @@ const ImageLink = (props) => {
             </a>
         );
     } else {
-        return <div></div><img src={props.image} alt={props.altText} width={props.width} height={props.height} />
+        return <div>
+            <img src={props.image} alt={props.altText} width={props.width} height={props.height} />
+        </div>
     }
 };
 
