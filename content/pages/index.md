@@ -211,7 +211,10 @@ sections:
         flexDirection: row
         width: wide
   - text: ''
-    children: []
+    children:
+      - link: null
+        altText: null
+        type: Image
     type: Flexbox
     styles:
       self:
