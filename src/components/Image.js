@@ -10,7 +10,7 @@ const ImageLink = (props) => {
                 <p>imgUrl: {props.imgUrl}</p>
                 <p>image: {props.image} </p>
                 <p>altText: {props.altText}</p>
-                <Image src={props.image} alt={props.altText} layout="fill" />
+                <img src={props.image} alt={props.altText} layout="fill" />
             </a>
         );
     } else {
