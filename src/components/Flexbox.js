@@ -53,7 +53,7 @@ function mapJustifyContent(justification) {
 }
 
 function mapAlignItems(alignment) {
-    if 
+    if (alignment == )
 }
 
 function childComponents(children) {
