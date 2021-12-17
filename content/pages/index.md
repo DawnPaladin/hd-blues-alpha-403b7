@@ -4,6 +4,12 @@ layout: PageLayout
 sections:
   - text: ''
     children:
+      - altText: null
+        link: null
+        width: null
+        height: null
+        type: Image
+        image: /images/no-hd-sign_4.png
       - text: ''
         children: []
         type: Flexbox
@@ -11,12 +17,6 @@ sections:
           self:
             flexDirection: row
             width: wide
-      - altText: null
-        link: null
-        width: null
-        height: null
-        type: Image
-        image: /images/no-hd-sign_4.png
     type: Flexbox
     styles:
       self:
