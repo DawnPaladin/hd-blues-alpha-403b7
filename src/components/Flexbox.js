@@ -51,6 +51,10 @@ function mapJustifyContent(justification) {
     if (justification == "space-evenly") return "justify-evenly"
 }
 
+function mapAlignItems(alignment) {
+    if 
+}
+
 function childComponents(children) {
     return children.map((child, index) => {
         const Child = getComponent(child.type);
