@@ -5,7 +5,7 @@
         "primaryColors": "colors-b",
         "secondaryColors": "colors-i",
         "title": "Small Business",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
             "url": "/images/logo.svg",
