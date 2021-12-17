@@ -42,7 +42,9 @@ function mapFlexDirection(direction) {
     return 'flex-' + direction;
 }
 
-function mapJustifyContent()
+function mapJustifyContent(param) {
+    console.warn(param);
+}
 
 function childComponents(children) {
     return children.map((child, index) => {
