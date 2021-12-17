@@ -215,6 +215,7 @@ sections:
       - link: null
         altText: null
         type: Image
+        image: /images/hdsa.png
     type: Flexbox
     styles:
       self:
