@@ -11,7 +11,7 @@ const ImageLink = (props) => {
             </a>
         );
     } else {
-                <img src={props.image} alt={props.altText} />
+        return <img src={props.image} alt={props.altText} />
     }
 };
 
