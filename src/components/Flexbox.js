@@ -56,7 +56,8 @@ function mapAlignItems(alignment) {
     if (alignment == "flex-start") return "items-start";
     if (alignment == "flex-end") return "items-end";
     if (alignment == "center") return "items-center";
-    if (alignment == "baseline")
+    if (alignment == "baseline") return "items-baseline";
+    if (alignment == "stretch")
 }
 
 function childComponents(children) {
