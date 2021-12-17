@@ -16,6 +16,7 @@ fields:
   - type: string
     name: width
     label: Width
+    default:
   - type: string
     name: height
     label: Height
