@@ -246,5 +246,5 @@ sections:
         flexDirection: row
         width: wide
         justifyContent: space-around
-        alignItems: center
+        alignItems: stretch
 ---
