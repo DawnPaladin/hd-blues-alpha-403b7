@@ -213,7 +213,7 @@ sections:
   - text: ''
     children:
       - link: 'https://www.hdsa.org/'
-        altText: null
+        altText: Huntington's Disease Society of America
         type: Image
         image: /images/HDSA_Logo.png
     type: Flexbox
