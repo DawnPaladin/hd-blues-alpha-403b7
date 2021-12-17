@@ -221,7 +221,7 @@ sections:
         altText: HD Buzz
         type: Image
         image: /images/hd-buzz.png
-      - altText: null
+      - altText: HD Lighthouse Families
         link: null
         width: null
         height: null
