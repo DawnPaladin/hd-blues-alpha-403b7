@@ -9,7 +9,7 @@ const ImageLink = (props) => {
     } else {
 
         return (
-            <div class="style={{width: props.width ? props.width : null}}>
+            <div class="flex-item" style={{width: props.width ? props.width : null}}>
                 <img src={props.image} alt={props.altText} width={props.width} height={props.height} />
             </div>
         );
